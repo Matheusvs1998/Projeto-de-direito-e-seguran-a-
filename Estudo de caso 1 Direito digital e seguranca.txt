@@ -1,0 +1,42 @@
+1° Identificação dos problemas 
+
+- Problemas relacionados à coleta de dados: Informações desnecessárias (fotografia; localização aproximada; contatos armazenados no celular; identificador do dispositivo; histórico de acesso; páginas visualizadas; tempo de permanência em cada área do aplicativo.
+
+- Ausência ou deficiência de transparência: Antes de aceitar e contiuar tem a caixa com a leitura de Aceitação dos termos.
+
+- Eventual inagequação do consetimento: Opção de ler os termos fora do local adequado que deveria ser antes de "Aceitar e Continuar".
+
+- Incompatibilidade ou desvio de finalidade: Sim, objetivo real da aplicação foge de sua finalidade final que seria, consultar notas, acessar materiais, receber avisos, 
+participar de eventos e utilizar um cartão estudantil digital. Erros que identificamos que não estão em sua finalidade da aplicação que seria:
+ publicidade de empréstimos; 
+• cursos particulares; 
+• apostas esportivas; 
+• eventos; 
+• planos de telefonia; 
+• anúncios relacionados a posicionamentos políticos.
+
+- Coleta Excessiva: Solicitação de dados adicionais sem finalidade.
+
+- Perfilamento dos estudantes: A empresa contratada (PublicData Marketing Ltda) não entregou aquilo que a empresa contratante (Edutech Serviços Digitais Ltda) queria, onde ela queria uma analise de comportamentos dos estudantes.
+
+- Compartilhamento com terceiros: Os dados deveriam ser guardados em sigilos.
+
+- Conservação em período inderterminado: A NuvemSegura SA, deveria administrar o acesso dos usuários por em determinado período.
+
+- Utilização de dados reais em ambiente de testes: Cópias do banco de dados eram utilizadas em testes.
+
+- Falhas de controle de acesso: Ausência de autentificação de multifator, acesso por setor.
+
+- Falhas no desligameto de empregaos: O empregado não teve sua conta deletada mesmo após o desligamento da emrpesa.
+
+- Ausência de autenticação multifator: Algumas comunicação internas utilizavam arquivos sem criptografias.
+
+- Deficiência dos registros de auditoria: Os registros estavam incompletos, auditoria ineficiente.
+
+- Demora na detecção do incidente: Não existia um plano fomral de resposta a incidentes. 
+
+- Comunicação ineficiente aos titulares: A diretoria recebeu o relatório, mas adiou as correções por considerar o investimento muito elevado. 
+
+2° Classificação dos dados 
+
+-
