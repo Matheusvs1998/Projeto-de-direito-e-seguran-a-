@@ -45,4 +45,12 @@ nome completo;
 • data de nascimento; 
 - Dados pessoais potencialmente sensíveis: • CPF; • endereço; • fotografia; • contatos armazenados no celular; 
 • identificador do dispositivo; 
-- Dados inferidos: 
+- Dados inferidos: No caso da plataforma ConectaCampus, os alunos informaram apenas dados cadastrais (nome, curso, e-mail). No entanto, a empresa PublicData cruzou os hábitos de navegação, horários de acesso e localização para inferir:
+
+Provável faixa de renda: Inferida com base na localização aproximada do aluno, modelo do celular e horários de deslocamento.
+
+Interesse em empréstimos / probabilidade de abandono do curso: Inferido a partir do tempo de permanência na tela de boletos ou pesquisas por trancamento de matrícula.
+
+Preferências políticas: Inferidas a partir do tipo de notícias, eventos ou páginas em que o aluno passa mais tempo lendo.
+
+Nenhum aluno preencheu um formulário dizendo "minha renda é X" ou "tenho interesse no partido Y". Esses dados foram criados/inferidos pela empresa.
