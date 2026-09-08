@@ -54,3 +54,26 @@ Interesse em empréstimos / probabilidade de abandono do curso: Inferido a parti
 Preferências políticas: Inferidas a partir do tipo de notícias, eventos ou páginas em que o aluno passa mais tempo lendo.
 
 Nenhum aluno preencheu um formulário dizendo "minha renda é X" ou "tenho interesse no partido Y". Esses dados foram criados/inferidos pela empresa.
+
+- Dados técnicos: 
+Identificador do dispositivo
+informações relacionadas ao funcionamento do aplicativo;
+informações técnicas utilizadas para identificar acessos e dispositivos.
+
+- Registro de acesso: registros de autenticação;
+endereços IP;
+datas e horários;
+identificadores de dispositivos;
+comandos administrativos;
+histórico de exportação;
+logs de banco de dados.
+
+- Informações que podem aumentar o risco para titulares: 
+nomes;
+e-mails;
+números de telefone;
+cursos;
+instituições;
+localizações aproximadas de 500 estudantes.
+
+Expliquem por que a combinação de dados aparentemente comuns pode produzir perfis altamente invasivos: As informações irão tirar a privacidade do usuário, usando apenas rastros digitais simples e públicos.
