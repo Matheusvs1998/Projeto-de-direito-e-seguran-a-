@@ -39,4 +39,10 @@ participar de eventos e utilizar um cartão estudantil digital. Erros que identi
 
 2° Classificação dos dados 
 
--
+- Dados pessoais:  
+nome completo; 
+• CPF; 
+• data de nascimento; 
+- Dados pessoais potencialmente sensíveis: • CPF; • endereço; • fotografia; • contatos armazenados no celular; 
+• identificador do dispositivo; 
+- Dados inferidos: 
