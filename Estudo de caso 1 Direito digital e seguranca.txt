@@ -77,3 +77,193 @@ instituições;
 localizações aproximadas de 500 estudantes.
 
 Expliquem por que a combinação de dados aparentemente comuns pode produzir perfis altamente invasivos: As informações irão tirar a privacidade do usuário, usando apenas rastros digitais simples e públicos.
+
+3. LEGISLAÇÃO APLICÁVEL
+
+O caso envolve diversas normas porque há problemas relacionados à coleta, tratamento, compartilhamento, segurança e utilização indevida de dados pessoais, além de possível acesso não autorizado ao sistema.
+
+O próprio estudo indica como normas a serem analisadas: Constituição Federal, LGPD, Marco Civil da Internet, Código de Defesa do Consumidor, Código Civil, Código Penal e os contratos entre as empresas envolvidas.
+
+3.1 Constituição Federal
+
+A Constituição Federal, especialmente após a EC 115/2022, reconhece a proteção de dados pessoais, inclusive nos meios digitais, como direito fundamental.
+
+Aplicação ao caso
+
+O ConectaCampus coleta uma quantidade muito grande de informações dos estudantes: CPF, endereço, telefone, localização, contatos, histórico de acesso, páginas visualizadas e tempo de permanência.
+
+Além disso, esses dados são utilizados para elaboração de perfis e publicidade, sem explicação clara aos estudantes.
+
+Problema: possível violação do direito fundamental à proteção de dados pessoais e à privacidade.
+
+3.2 LGPD – Lei nº 13.709/2018
+
+Essa é provavelmente a principal legislação do caso.
+
+A LGPD estabelece princípios e regras para o tratamento de dados pessoais.
+
+🔴 Problema 1 – Finalidade e transparência
+
+O aplicativo informa apenas que os dados seriam utilizados para:
+
+"melhorar a experiência do usuário".
+
+Porém, os dados posteriormente são utilizados para perfilamento e publicidade direcionada, inclusive publicidade de empréstimos, cursos, apostas, telefonia e anúncios relacionados a posicionamentos políticos.
+
+Isso pode contrariar os princípios da:
+
+finalidade;
+adequação;
+necessidade;
+transparência;
+livre acesso.
+🧠 Bizu
+
+COLETOU PARA A → USOU PARA B = POSSÍVEL DESVIO DE FINALIDADE.
+
+🔴 Problema 2 – Consentimento
+
+O estudante encontra apenas o botão:
+
+"Aceitar e continuar".
+
+Além disso, não existe opção visível para utilizar as funcionalidades acadêmicas sem autorizar localização, contatos e personalização de anúncios.
+
+Isso gera dúvida sobre a validade do consentimento, especialmente porque ele deve ser livre, informado e inequívoco quando essa for a base legal utilizada.
+
+Portanto, deve-se investigar se houve verdadeiro consentimento ou se o estudante foi colocado diante de uma situação de "aceita tudo ou não utiliza o serviço".
+
+🔴 Problema 3 – Coleta excessiva
+
+Para utilizar funções acadêmicas, são coletadas informações bastante amplas, incluindo:
+
+contatos armazenados no celular;
+localização;
+histórico de acesso;
+páginas visualizadas;
+tempo de permanência.
+
+Deve-se questionar se todos esses dados são realmente necessários para a finalidade acadêmica.
+
+Isso se relaciona diretamente ao princípio da necessidade da LGPD.
+
+🔴 Problema 4 – Perfilamento
+
+A PublicData criou perfis dos estudantes contendo:
+
+provável faixa de renda;
+preferências políticas inferidas;
+interesse em empréstimos;
+hábitos de consumo;
+frequência no campus;
+probabilidade de abandono do curso;
+horários de deslocamento;
+interesses em produtos e serviços.
+
+O problema se agrava porque os estudantes não receberam explicação clara sobre o perfilamento.
+
+3.3 Marco Civil da Internet – Lei nº 12.965/2014
+
+O Marco Civil estabelece princípios, direitos e deveres relacionados ao uso da Internet.
+
+No caso, devem ser analisados principalmente os aspectos relacionados a:
+
+proteção da privacidade;
+proteção dos dados pessoais;
+segurança;
+registros de acesso;
+tratamento de dados.
+
+Também deve ser analisada a responsabilidade dos diferentes participantes da cadeia tecnológica.
+
+3.4 Código de Defesa do Consumidor
+
+O CDC poderá ser aplicado se estiver caracterizada relação de consumo.
+
+O estudante utiliza um serviço fornecido pela empresa.
+
+Assim, devem ser avaliados, entre outros:
+
+direito à informação adequada e clara;
+proteção contra práticas abusivas;
+transparência;
+responsabilidade por falhas na prestação do serviço.
+
+A própria atividade determina que o CDC seja considerado caso exista relação de consumo.
+
+3.5 Código Civil
+
+O Código Civil pode ser utilizado para analisar possíveis:
+
+danos materiais;
+danos morais;
+violação de direitos da personalidade;
+responsabilidade civil.
+
+Se houver dano aos estudantes em razão da utilização ou exposição indevida dos dados, poderá surgir discussão sobre responsabilidade civil e indenização, dependendo da comprovação dos requisitos aplicáveis.
+
+3.6 Código Penal
+
+O caso apresenta uma situação especialmente grave:
+
+Renato era ex-administrador e sabia que não possuía mais autorização, mas acessou deliberadamente o painel administrativo. Depois:
+
+consultou cadastros;
+copiou o banco;
+apagou registros;
+ofereceu os dados a uma empresa;
+publicou uma amostra em fórum.
+
+Portanto, deve ser investigada eventual ocorrência de crime relacionado ao acesso não autorizado e às demais condutas praticadas, com individualização da responsabilidade penal.
+
+A própria atividade cita expressamente o Código Penal e a Lei nº 14.155/2021 como referências jurídicas.
+
+3.7 Contratos
+
+Também precisam ser analisados os contratos entre:
+
+Edutech;
+NuvemSegura;
+PublicData;
+instituições de ensino.
+
+Isso é importante porque os contratos estabeleciam responsabilidades específicas.
+
+Por exemplo, a NuvemSegura deveria:
+
+manter infraestrutura;
+realizar backups;
+aplicar atualizações;
+registrar eventos;
+comunicar incidentes à Edutech.
+
+Enquanto a Edutech deveria:
+
+definir os dados coletados;
+definir as finalidades;
+controlar permissões;
+administrar contas;
+definir o período de conservação.
+
+4. AGENTES E RESPONSÁVEIS
+Edutech
+
+É o principal agente a ser analisado quanto ao tratamento dos dados.
+
+Pelo caso, ela:
+
+define os dados coletados;
+define as finalidades;
+controla permissões;
+administra contas;
+define o período de conservação.
+
+PublicData
+Recebeu dados para analisar o comportamento dos estudantes e criar perfis.
+Pode ser operadora se atuar seguindo instruções da Edutech.
+Entretanto, se tiver tomado decisões próprias sobre finalidades e meios do tratamento, sua classificação deverá ser reavaliada.
+
+NuvemSegura
+Fornecia a infraestrutura de computação em nuvem.
+Em princípio, sua posição se aproxima da de operadora, caso realize o tratamento em nome da Edutech e conforme suas instruções.
+Mas também deverá ser analisado se cumpriu as obrigações contratuais de segurança.
